@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="label_post_details">Post Details</string>
+    <string name="label_feed">Feed</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_retry">Retry</string>
+    <string name="label_error">Error</string>
+</resources>
